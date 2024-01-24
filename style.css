@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+  
+.desc{
+    background-color: #FE7A36;
+    color: #FDF0D1;
+    align-items: center;
+    height: 30%;
+    width: 100%;
+}
+.food_item{
+    background-color:#3652AD ;
+    color: #E6A4B4;
+    height: 30%;
+    width: 100%;
+}
+.foot_desc{
+    background-color: #280274;
+    color: #FF6868;
+    height: 30%;
+    width: 100%;
+}
